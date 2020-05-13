@@ -1,0 +1,24 @@
+pipreqs "locationfolder"
+
+C:\Windows\system32>cd C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder
+
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>heroku login
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>git add .
+
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>git commit -m "housing"
+
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>git push heroku master
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>heroku create
+
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>git push heroku master
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>heroku ps:scale web=1
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>git add .
+
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>git commit -m "housing"
+
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>git push heroku master
+C:\Users\mo.yosola\Desktop\TechnidusChallenge\Scraped Locations\analysis\New folder>heroku ps:scale web=1
+
+
+
+https://f-a.nz/dev/update-deploy-to-heroku-app/
